@@ -24,7 +24,7 @@
 .EXAMPLE
     imagemapper.ps1 -source "C:\Case\pics.zip" -target "C:\Cases\001\Images"
     Example showing how to run script against a zip file containing images
-.EXAMPLE
+.EXAMPLEE
     imagemapper.ps1 -source "C:\Case\pics.zip" -target "C:\Cases\001\Images" -TargetFileName 20170725-001
     Example showing how to run script specifying target and target file name
 #>
